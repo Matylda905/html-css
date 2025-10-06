@@ -1,0 +1,63 @@
+h1 {
+    text-align: center;
+    background-color: red;
+    color : white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 500%;
+    border-radius: 0%;
+}
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;   
+}
+footer {
+    border: 100px;
+    border-color: red;
+}
+img {
+    border-color: red;
+    border: 10px solid red;
+    border-radius: 40%;
+}
+p1 {
+    font-size: 150%;   
+}
+h2 {
+    font-size: 250%;
+    text-decoration: underline white;
+}
+.image {
+    text-align: center;
+}
+table {
+    font-size: 200%;
+    margin-left: auto;
+    margin-right: auto;
+}
+ol {
+    font-size: 150%;
+    text-align: center;
+}
+.btn {
+    background-color: red;
+    color: white;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: yellow;
+    text-decoration: none;
+}
+a:active {
+    color: white;
+    text-decoration: none;
+}
+

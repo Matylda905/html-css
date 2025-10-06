@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    background-color: rgb(240, 23, 204);
+    color : white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 500%;
+    border-radius: 0%;
+}
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;   
+}
+footer {
+    border: 100px;
+    border-color: rgb(240, 23, 204);
+}
+img {
+    border-color: rgb(240, 23, 204);
+    border: 10px solid rgb(240, 23, 204);
+    border-radius: 40%;
+}
+p1 {
+    font-size: 150%;   
+}
+h2 {
+    font-size: 250%;
+    text-decoration: underline white;
+}
+.image {
+    text-align: center;
+}
+table {
+    font-size: 200%;
+    margin-left: auto;
+    margin-right: auto;
+}
+ol {
+    font-size: 150%;
+    text-align: center;
+}
+.btn {
+    background-color: rgb(240, 23, 204);
+    color: white;
+}
+
